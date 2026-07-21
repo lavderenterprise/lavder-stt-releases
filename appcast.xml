@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+    <channel>
+        <title>Lavder STT</title>
+        <link>https://raw.githubusercontent.com/lavderenterprise/lavder-stt-releases/main/appcast.xml</link>
+        <description>Aggiornamenti di Lavder STT.</description>
+        <language>it</language>
+        <item>
+            <title>Versione 2.4.0</title>
+            <pubDate>Tue, 21 Jul 2026 11:14:59 +0300</pubDate>
+            <sparkle:version>9</sparkle:version>
+            <sparkle:shortVersionString>2.4.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[Aggiornamenti automatici: da questa versione l'app si aggiorna da sola, senza riscaricare il DMG a mano.]]></description>
+            <enclosure url="https://github.com/lavderenterprise/lavder-stt-releases/releases/download/v2.4.0/LavderSTT-2.4.0.dmg" type="application/octet-stream" sparkle:edSignature="2AXUYt1V6bfN+WMeYC4mFRIFxPURPUxdv1eSYWvY8CeqlkrvDnyj5rOyqlK0sG1At3Puk3rPCZ9NyJop1aizDw==" length="6061770" />
+        </item>
+    </channel>
+</rss>
