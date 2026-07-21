@@ -7,12 +7,12 @@
         <language>it</language>
         <item>
             <title>Versione 2.4.0</title>
-            <pubDate>Tue, 21 Jul 2026 11:14:59 +0300</pubDate>
+            <pubDate>Tue, 21 Jul 2026 12:02:22 +0300</pubDate>
             <sparkle:version>9</sparkle:version>
             <sparkle:shortVersionString>2.4.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
             <description><![CDATA[Aggiornamenti automatici: da questa versione l'app si aggiorna da sola, senza riscaricare il DMG a mano.]]></description>
-            <enclosure url="https://github.com/lavderenterprise/lavder-stt-releases/releases/download/v2.4.0/LavderSTT-2.4.0.dmg" type="application/octet-stream" sparkle:edSignature="2AXUYt1V6bfN+WMeYC4mFRIFxPURPUxdv1eSYWvY8CeqlkrvDnyj5rOyqlK0sG1At3Puk3rPCZ9NyJop1aizDw==" length="6061770" />
+            <enclosure url="https://github.com/lavderenterprise/lavder-stt-releases/releases/download/v2.4.0/LavderSTT-2.4.0.dmg" type="application/octet-stream" sparkle:edSignature="QARkCNuwgbw71DaqmCnNaXmf6I9NHl8+f4kOY/BQxHPVgqEXzqTJEJQMlUmDno/nP3+Vz76ux4H3fyWXJm5mBw==" length="6063759" />
         </item>
     </channel>
 </rss>
