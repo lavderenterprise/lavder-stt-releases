@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 400" width="1200" height="400" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Inter, Roboto, Helvetica, Arial, sans-serif">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#171717"/><stop offset="1" stop-color="#000000"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.80" cy="0.34" r="0.72">
+      <stop offset="0" stop-color="#F87016" stop-opacity="0.24"/><stop offset="1" stop-color="#F87016" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glow2" cx="0.06" cy="0.92" r="0.55">
+      <stop offset="0" stop-color="#FCA400" stop-opacity="0.12"/><stop offset="1" stop-color="#FCA400" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="wave" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#FCA400"/><stop offset="1" stop-color="#F87016"/>
+    </linearGradient>
+    <linearGradient id="ink" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#FFFFFF"/><stop offset="1" stop-color="#FFDCB6"/>
+    </linearGradient>
+    <filter id="soft" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="30"/></filter>
+    <clipPath id="clip"><rect x="0" y="0" width="1200" height="400" rx="18"/></clipPath>
+  </defs>
+
+  <g clip-path="url(#clip)">
+    <rect width="1200" height="400" fill="url(#bg)"/>
+    <rect width="1200" height="400" fill="url(#glow)"/>
+    <rect width="1200" height="400" fill="url(#glow2)"/>
+
+    <text x="84" y="150" font-size="60" font-weight="700" fill="url(#ink)" letter-spacing="-1.4">Lavder STT</text>
+    <text x="86" y="204" font-size="24" font-weight="500" fill="#B5B5B5">Detta con la voce.</text>
+    <text x="86" y="240" font-size="24" font-weight="500" fill="#B5B5B5">Il testo compare dove stai scrivendo.</text>
+
+    <g font-size="15" font-weight="600">
+            <rect x="84" y="300" width="140" height="40" rx="20" fill="#151515" stroke="#2E2E2E"/><text x="154" y="326" fill="#D8D8D8" text-anchor="middle">Sul tuo Mac</text>
+      <rect x="238" y="300" width="140" height="40" rx="20" fill="#151515" stroke="#2E2E2E"/><text x="307" y="326" fill="#D8D8D8" text-anchor="middle">In ogni app</text>
+      <rect x="391" y="300" width="216" height="40" rx="20" fill="#151515" stroke="#2E2E2E"/><text x="499" y="326" fill="#D8D8D8" text-anchor="middle">Si aggiorna da sola</text>
+    </g>
+
+    <ellipse cx="890.0" cy="214" rx="250" ry="96" fill="url(#glow)" filter="url(#soft)"/>
+    <rect x="660" y="172.0" width="460" height="84" rx="42.0" fill="#0B0B0B" stroke="#2C2C2C"/>
+    <circle cx="698" cy="214" r="9" fill="#F87016"/>
+    <circle cx="698" cy="214" r="17" fill="#F87016" opacity="0.20"/>
+    <text x="1130" y="220" font-size="16" font-weight="600" fill="#6E6E6E" text-anchor="end"></text>
+    <rect x="738.0" y="210.5" width="6" height="7.0" rx="3.0" fill="url(#wave)" opacity="0.51"/>
+    <rect x="753.0" y="210.5" width="6" height="7.0" rx="3.0" fill="url(#wave)" opacity="0.56"/>
+    <rect x="768.0" y="210.2" width="6" height="7.5" rx="3.0" fill="url(#wave)" opacity="0.61"/>
+    <rect x="783.0" y="208.4" width="6" height="11.1" rx="3.0" fill="url(#wave)" opacity="0.67"/>
+    <rect x="798.0" y="210.5" width="6" height="7.0" rx="3.0" fill="url(#wave)" opacity="0.73"/>
+    <rect x="813.0" y="201.0" width="6" height="26.1" rx="3.0" fill="url(#wave)" opacity="0.79"/>
+    <rect x="828.0" y="202.8" width="6" height="22.4" rx="3.0" fill="url(#wave)" opacity="0.85"/>
+    <rect x="843.0" y="195.7" width="6" height="36.6" rx="3.0" fill="url(#wave)" opacity="0.89"/>
+    <rect x="858.0" y="208.2" width="6" height="11.6" rx="3.0" fill="url(#wave)" opacity="0.93"/>
+    <rect x="873.0" y="198.6" width="6" height="30.8" rx="3.0" fill="url(#wave)" opacity="0.97"/>
+    <rect x="888.0" y="199.5" width="6" height="29.0" rx="3.0" fill="url(#wave)" opacity="0.99"/>
+    <rect x="903.0" y="190.0" width="6" height="47.9" rx="3.0" fill="url(#wave)" opacity="1.00"/>
+    <rect x="918.0" y="198.6" width="6" height="30.9" rx="3.0" fill="url(#wave)" opacity="1.00"/>
+    <rect x="933.0" y="203.1" width="6" height="21.8" rx="3.0" fill="url(#wave)" opacity="0.99"/>
+    <rect x="948.0" y="200.8" width="6" height="26.5" rx="3.0" fill="url(#wave)" opacity="0.97"/>
+    <rect x="963.0" y="199.3" width="6" height="29.5" rx="3.0" fill="url(#wave)" opacity="0.93"/>
+    <rect x="978.0" y="194.5" width="6" height="39.0" rx="3.0" fill="url(#wave)" opacity="0.89"/>
+    <rect x="993.0" y="206.3" width="6" height="15.4" rx="3.0" fill="url(#wave)" opacity="0.85"/>
+    <rect x="1008.0" y="204.7" width="6" height="18.5" rx="3.0" fill="url(#wave)" opacity="0.79"/>
+    <rect x="1023.0" y="210.0" width="6" height="8.0" rx="3.0" fill="url(#wave)" opacity="0.73"/>
+    <rect x="1038.0" y="205.1" width="6" height="17.8" rx="3.0" fill="url(#wave)" opacity="0.67"/>
+    <rect x="1053.0" y="210.4" width="6" height="7.1" rx="3.0" fill="url(#wave)" opacity="0.61"/>
+    <rect x="1068.0" y="210.5" width="6" height="7.0" rx="3.0" fill="url(#wave)" opacity="0.56"/>
+    <rect x="1083.0" y="210.5" width="6" height="7.0" rx="3.0" fill="url(#wave)" opacity="0.51"/>
+  </g>
+</svg>
