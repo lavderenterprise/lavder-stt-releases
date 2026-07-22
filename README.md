@@ -112,8 +112,8 @@ intelligenza artificiale che prima non esistevano.
 
 La dettatura funziona **sul tuo Mac**: audio e testo non escono dal computer.
 
-Fanno eccezione due funzioni facoltative, spente finché non le accendi tu — il motore di
-trascrizione OpenAI, che richiede una tua chiave API, e la traduzione via cloud.
+Fa eccezione una sola funzione facoltativa, spenta finché non l'accendi tu: il motore di
+trascrizione OpenAI, che richiede una tua chiave API e manda l'audio ai loro server.
 
 <br>
 
