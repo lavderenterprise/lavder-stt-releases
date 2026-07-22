@@ -41,14 +41,14 @@ La trascrizione avviene **sul tuo Mac**. Niente account, niente abbonamento per 
 
 ## Cosa sa fare
 
-|  | |
-|---|---|
-| 🎙️ | **Dettatura globale** in qualunque app, con scorciatoia o tenendo premuto il mouse |
-| 🧠 | **Correzione automatica** di punteggiatura e refusi con l'AI di sistema |
-| 📖 | **Dizionario personale**: nomi, sigle e termini che vuoi vengano scritti giusti |
-| 🔇 | **Microfono prioritario** e **audio abbassato** mentre detti, per non disturbare le chiamate |
-| 📊 | **Statistiche** su parole dettate e tempo risparmiato |
-| ⌨️ | **Modalità appunti** di riserva, se preferisci non dare l'accessibilità |
+<table>
+<tr><td width="56" align="center">🎙️</td><td><b>Dettatura globale</b> in qualunque app, con scorciatoia o tenendo premuto il mouse</td></tr>
+<tr><td width="56" align="center">🧠</td><td><b>Correzione automatica</b> di punteggiatura e refusi con l'AI di sistema</td></tr>
+<tr><td width="56" align="center">📖</td><td><b>Dizionario personale</b>: nomi, sigle e termini che vuoi vengano scritti giusti</td></tr>
+<tr><td width="56" align="center">🔇</td><td><b>Microfono prioritario</b> e <b>audio abbassato</b> mentre detti, per non disturbare le chiamate</td></tr>
+<tr><td width="56" align="center">📊</td><td><b>Statistiche</b> su parole dettate e tempo risparmiato</td></tr>
+<tr><td width="56" align="center">⌨️</td><td><b>Modalità appunti</b> di riserva, se preferisci non dare l'accessibilità</td></tr>
+</table>
 
 <br>
 
